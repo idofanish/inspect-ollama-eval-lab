@@ -1,0 +1,14 @@
+# Inspect AI evaluation logs
+logs/
+*.eval
+
+# Temporary log dumps
+log_dump.txt
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "Q01",
+    "input": "What is the capital of France?",
+    "target": "Paris"
+  },
+  {
+    "id": "Q02",
+    "input": "Explain what a database is in one sentence.",
+    "target": "A database is an organized collection of data that can be stored, managed, and retrieved."
+  },
+  {
+    "id": "Q03",
+    "input": "Give three examples of renewable energy sources.",
+    "target": "Solar, wind, and hydroelectric energy."
+  },
+  {
+    "id": "Q04",
+    "input": "What is 15 multiplied by 4?",
+    "target": "60"
+  },
+  {
+    "id": "Q05",
+    "input": "Why is testing important in software development?",
+    "target": "Testing helps find defects and verify that software behaves as expected."
+  }
+]
